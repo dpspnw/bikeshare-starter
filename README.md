@@ -9,6 +9,6 @@ one python and  new_york_city.csv,
 Place the bikeshare.py file and all the CSV files in the same folder. 
 
 ## Files used
-bikeshare.py chicago.csv new_york_city.csv washington.csv
+bikeshare.py new_york_city.csv 
 
 ## Resources
