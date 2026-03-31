@@ -12,3 +12,4 @@ Place the bikeshare.py file and all the CSV files in the same folder.
 bikeshare.py new_york_city.csv 
 
 ## Resources
+first refactoring change
